@@ -14,6 +14,14 @@ https://www.bilibili.com/video/BV1EZ421M7mL
 > macOS 推荐使用MacZip<br>
 > Linux上推荐直接用tar 命令
 
+沙雕作者 让看视频。 草
+
+```
+unzip zzz.zip
+docker load -i  zzz.tar
+```
+
+
 ## 相关项目
 https://github.com/wukongdaily/OrangePiShell
 ## 在哪里可以搜索或查询docker镜像的详细信息
